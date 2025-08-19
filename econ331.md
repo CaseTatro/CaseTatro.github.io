@@ -22,6 +22,8 @@ Students, below are the same materials I have posted to Brightspace in case Brig
 ## Pre-lecture Slides
 
 ## Homeworks
+- <a href="/files/econ-331/homeworks/HW0.pdf" target="_blank" rel="noopener">Homework 0</a>
+
 
 ## Past Exam 1s
 
