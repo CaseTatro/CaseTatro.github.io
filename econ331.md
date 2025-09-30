@@ -27,7 +27,7 @@ Students, below are the same materials I have posted to Brightspace in case Brig
 - <a href="/files/econ-331/slides/04 - Discrete and Continuous Discounting.pdf" target="_blank" rel="noopener">04 - Discounting</a>
 
 ## Homeworks
-- <a href="/files/econ-331/slides/HW0.pdf" target="_blank" rel="noopener">Homework 0</a>
+- <a href="/files/econ-331/homeworks/HW0.pdf" target="_blank" rel="noopener">Homework 0</a>
 - <a href="/files/econ-331/homeworks/Homework 1 Econ 331.pdf" target="_blank" rel="noopener">Homework 1</a>
 - <a href="/files/econ-331/homeworks/Econ 331 Homework 2.pdf" target="_blank" rel="noopener">Homework 2</a>
 - <a href="/files/econ-331/homeworks/Econ 331 HW 3.pdf" target="_blank" rel="noopener">Homework 3</a>
