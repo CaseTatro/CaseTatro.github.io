@@ -13,7 +13,7 @@ title                    : "Case Tatro"
 title_separator          : ""
 name                     : &name "Case Tatro"
 description              : &description "PhD Economics Candidate at Binghamton University (SUNY)"
-url                      : https://casetatro.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://www.casetatro.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "casetatro/casetatro.github.io"
 
