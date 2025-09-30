@@ -20,11 +20,11 @@ Students, below are the same materials I have posted to Brightspace in case Brig
 
 
 ## Pre-lecture Slides
-- <a href="files/econ-331/slides/01 - Equilibrium and Government Policies.pdf" target="_blank" rel="noopener">01 - Equilibrium and Govt Policies</a>
-- <a href="files/econ-331/slides/01a - Surplus.pdf" target="_blank" rel="noopener">01a - Surplus</a>
-- <a href="files/econ-331/slides/02 - Externalities.pdf" target="_blank" rel="noopener">02 - Externalities</a>
-- <a href="files/econ-331/slides/03 - The MAC MDF Graph.pdf" target="_blank" rel="noopener">03 - The MAC MDF Graph</a>
-- <a href="files/econ-331/slides/04 - Discrete and Continuous Discounting.pdf" target="_blank" rel="noopener">04 - Discounting</a>
+- <a href="/files/econ-331/slides/01 - Equilibrium and Government Policies.pdf" target="_blank" rel="noopener">01 - Equilibrium and Govt Policies</a>
+- <a href="/files/econ-331/slides/01a - Surplus.pdf" target="_blank" rel="noopener">01a - Surplus</a>
+- <a href="/files/econ-331/slides/02 - Externalities.pdf" target="_blank" rel="noopener">02 - Externalities</a>
+- <a href="/files/econ-331/slides/03 - The MAC MDF Graph.pdf" target="_blank" rel="noopener">03 - The MAC MDF Graph</a>
+- <a href="/files/econ-331/slides/04 - Discrete and Continuous Discounting.pdf" target="_blank" rel="noopener">04 - Discounting</a>
 
 ## Homeworks
 - <a href="/files/econ-331/slides/HW0.pdf" target="_blank" rel="noopener">Homework 0</a>
