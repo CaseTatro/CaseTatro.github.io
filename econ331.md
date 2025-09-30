@@ -33,9 +33,8 @@ Students, below are the same materials I have posted to Brightspace in case Brig
 - <a href="/files/econ-331/homeworks/Econ 331 HW 3.pdf" target="_blank" rel="noopener">Homework 3</a>
 
 ## Past Exam 1s
-
-
-
+- <a href="/files/econ-331/Econ 331 Exam 1.pdf" target="_blank" rel="noopener">Exam 1 (Fall 2025)</a>
+- <a href="/files/econ-331/Econ 331 PRACTICE Exam 1.pdf" target="_blank" rel="noopener">Practice Exam 1 (Fall 2025)</a>
 ## Past Exam 2s
 
 
