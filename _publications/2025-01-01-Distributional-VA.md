@@ -1,5 +1,5 @@
 ---
-title: "Does a teacher have a different value-added measure for the top and bottom portions of the student achievement distribution within the same classrooms?"
+title: "Should Value-Added Models Weight All Students Equally?"
 collection: publications
 category: works
 permalink: /publication/Distributional-VA
