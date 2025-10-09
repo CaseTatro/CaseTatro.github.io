@@ -7,7 +7,7 @@ abstract: 'In the US, the general consensus is that Democrats exhibit greater su
 date: 2025-01-01
 venue: 'In Progress'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://casetatro.github.io/files/Red Blue Achievemet Gap Draft.pdf'
+paperurl: 'http://casetatro.github.io/files/Red_Blue_Achievemet_Gap_Draft.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: ' Case Tatro (2025). <i>Is the Red-Blue Achievement Gap Due to State Policy?</i> Working Paper'
 ---
