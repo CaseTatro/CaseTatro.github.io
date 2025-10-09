@@ -65,6 +65,8 @@
     },
     {
       "name": "Is the red-blue achievement gap due to state policy?",
+      "releaseDate": "2025",
+      "website": "http/CaseTatro.github.io/files/Red_Blue_Achievemet_Gap_Draft.pdf",
       "summary": "Abstract: In the US, the general consensus is that Democrats exhibit greater support for education, including funding education more generously. Consistent with this fact, students in Democratic states score higher on standardized tests than Republican states. I implement two research designs and ask whether Democrats cause these differences in test scores through state-level policy. I find that Democrats do seem to increase test scores, although my estimates are imprecisely estimated. Further, despite the view that Democrats promote equity in education, I do not find that Democrats close achievement gaps between white and black students, male and female students, or rich and poor students."
     },
     
