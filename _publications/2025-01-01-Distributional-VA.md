@@ -7,7 +7,7 @@ abstract: "Conventional value-added (VA) models estimate teacher quality as a si
 date: 2025-12-01
 venue: 'Job Market Paper'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'http://casetatro.github.io/files/Red_blue_mortality_gap.pdf'
+paperurl: 'http://casetatro.github.io/files/Should Value-Added Models Weight All Students Equally.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 #citation: 'Bhattarai, Jijee, David Slichter, and Case Tatro (2025). <i>Is the mortality gap between red and blue states caused by policy?</i> Working Paper'
 ---
