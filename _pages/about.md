@@ -7,15 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am mainly interested in the fields of labor economics, education economics, and applied econometrics.
-My current research focuses on teacher value-added and the impacts of state-level partisanship on education.
-I have a strong passion for teaching. My teaching interests and qualifications include microeconomic theory, environmental and natural resource economics, and intermediate macroeconomic theory.
+I am a fifth-year Ph.D. student on the job market.
+
+ I am an applied microeconomist. I primarily work in the economics of education, but I also work
+ on topics in experimental, labor, health, and enviromental economics. My teaching interests include intermediate microeconomics, labor economics, the economics of education, and environmental and natural resource economics. 
 
 
 Fields
 ------
-* Labor Economics
 * Economics of Education
-* Applied Econometrics
+* Applied Microeconomics
+* Labor Economics
+* Environmental Economics
+* Experimental Economics
 
 
