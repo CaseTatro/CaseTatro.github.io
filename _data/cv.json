@@ -60,14 +60,12 @@
 
     },
     {
-      "name": "Is the red-blue mortality gap due to state policy?",
-      "releaseDate": "2025",
+      "name": "Is the mortality gap between red and blue states caused by government? (with Jijee Bhattarai & David Slichter)",
       "website": "http://casetatro.github.io/files/Red_blue_mortality_gap.pdf",
       "summary": "Abstract: Age-adjusted mortality rates are higher in “red” states, i.e., states with high support for the Republican Party. We ask whether this is due to state-level policies or simply due to confounding variables such as culture. We implement three research designs: a border county design, a regression discontinuity design, and a novel design exploiting the partisanship of distant parts of a state. Our point estimates suggest that Democratic state government slightly decreases mortality, but most estimates are insignificant, and in all designs we find that the correlation between partisanship and mortality is predominantly driven by confounding."
     },
     {
       "name": "Is the red-blue achievement gap due to state policy?",
-      "releaseDate": "2025",
       "website": "http/CaseTatro.github.io/files/Red_Blue_Achievemet_Gap_Draft.pdf",
       "summary": "Abstract: In the US, the general consensus is that Democrats exhibit greater support for education, including funding education more generously. Consistent with this fact, students in Democratic states score higher on standardized tests than Republican states. I implement two research designs and ask whether Democrats cause these differences in test scores through state-level policy. I find that Democrats do seem to increase test scores, although my estimates are imprecisely estimated. Further, despite the view that Democrats promote equity in education, I do not find that Democrats close achievement gaps between white and black students, male and female students, or rich and poor students."
     },
