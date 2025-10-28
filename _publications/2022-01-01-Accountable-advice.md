@@ -1,5 +1,5 @@
 ---
-title: "The Effects of Accountable Advice"
+title: "The Effects of Accountable Advice (with Ozlem Tonguc)"
 collection: publications
 category: works
 permalink: /publication/Accountable-advice

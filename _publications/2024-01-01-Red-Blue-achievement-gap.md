@@ -1,5 +1,5 @@
 ---
-title: "Is the Red-Blue Achievement Gap Due to State Policy"
+title: "Is the Red-Blue Achievement Gap Due to State Policy?"
 collection: publications
 category: works
 permalink: /publication/Red_Blue_achievement_gap

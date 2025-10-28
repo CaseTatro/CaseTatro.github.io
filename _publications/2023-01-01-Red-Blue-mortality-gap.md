@@ -1,5 +1,5 @@
 ---
-title: "Is the mortality gap between red and blue states caused by government? (with Jijee Bhattarai & David Slichter)"
+title: "Is the Mortality Gap Between Red and Blue States Caused by Government? (with Jijee Bhattarai & David Slichter)"
 collection: publications
 category: works
 permalink: /publication/Red_Blue_mortality_gap
