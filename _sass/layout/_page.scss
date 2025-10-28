@@ -399,3 +399,11 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.coauthors {
+  color: #000;         /* black */
+  font-style: italic;  /* optional — you can remove this line if you want normal text */
+  margin-top: -0.5em;
+  margin-bottom: 0.5em;
+  font-size: 0.9em;
+}
