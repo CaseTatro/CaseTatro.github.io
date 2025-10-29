@@ -1,5 +1,5 @@
 ---
-title: "Instructor"
+title: "Instructor (Binghamton University (SUNY))"
 collection: teaching
 category: instructor
 permalink: /teaching/instructor/
