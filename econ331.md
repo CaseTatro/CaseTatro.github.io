@@ -41,6 +41,6 @@ Students, below are the same materials I have posted to Brightspace in case Brig
 - <a href="/files/econ-331/Econ 331 PRACTICE Exam 1.pdf" target="_blank" rel="noopener">Practice Exam 1 (Fall 2025)</a>
 
 ## Past Exam 2s
-- <a href="/files/econ-331/Econ 331 Fall 2025 Practice Exam 2 1.pdf" target="_blank" rel="noopener">Practice Exam 2 (Fall 2025)</a>
+- <a href="/files/econ-331/Econ 331 Fall 2025 Practice Exam 2.pdf" target="_blank" rel="noopener">Practice Exam 2 (Fall 2025)</a>
 
 
