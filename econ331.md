@@ -25,16 +25,22 @@ Students, below are the same materials I have posted to Brightspace in case Brig
 - <a href="/files/econ-331/slides/02 - Externalities.pdf" target="_blank" rel="noopener">02 - Externalities</a>
 - <a href="/files/econ-331/slides/03 - The MAC MDF Graph.pdf" target="_blank" rel="noopener">03 - The MAC MDF Graph</a>
 - <a href="/files/econ-331/slides/04 - Discrete and Continuous Discounting.pdf" target="_blank" rel="noopener">04 - Discounting</a>
+- <a href="/files/econ-331/slides/05 - Net Present Value.pdf" target="_blank" rel="noopener">05 - Net Present Value</a>
+- <a href="/files/econ-331/slides/06 - LAC Method.pdf" target="_blank" rel="noopener">06 - LAC Method</a>
+- <a href="/files/econ-331/slides/07 - Valuing the Environment.pdf" target="_blank" rel="noopener">07 - Valuing the Environment</a>
 
 ## Homeworks
 - <a href="/files/econ-331/homeworks/HW0.pdf" target="_blank" rel="noopener">Homework 0</a>
 - <a href="/files/econ-331/homeworks/Homework 1 Econ 331.pdf" target="_blank" rel="noopener">Homework 1</a>
 - <a href="/files/econ-331/homeworks/Econ 331 Homework 2.pdf" target="_blank" rel="noopener">Homework 2</a>
 - <a href="/files/econ-331/homeworks/Econ 331 HW 3.pdf" target="_blank" rel="noopener">Homework 3</a>
+- <a href="/files/econ-331/homeworks/Econ 331 HW 4.pdf" target="_blank" rel="noopener">Homework 4</a>
 
 ## Past Exam 1s
 - <a href="/files/econ-331/Econ 331 Exam 1.pdf" target="_blank" rel="noopener">Exam 1 (Fall 2025)</a>
 - <a href="/files/econ-331/Econ 331 PRACTICE Exam 1.pdf" target="_blank" rel="noopener">Practice Exam 1 (Fall 2025)</a>
+
 ## Past Exam 2s
+- <a href="/files/econ-331/Econ 331 Fall 2025 Practice Exam 2 1.pdf" target="_blank" rel="noopener">Practice Exam 2 (Fall 2025)</a>
 
 
