@@ -2,7 +2,7 @@
   "basics": {
     "name": "Case Tatro",
     "email": "ctatro1@binghamton.edu",
-    "website": "https://casetatro.github.io",
+    "website": "https://casetatro.com",
     "location": {
       "address": "",
       "postalCode": "",
@@ -72,7 +72,6 @@
     },
      {
       "name": "Is the red-blue achievement gap due to state policy?",
-      "website": "http/CaseTatro.github.io/files/Red_Blue_Achievemet_Gap_Draft.pdf",
       "summary": "Abstract: In the US, a popular view is that Democrats exhibit greater support for education, including funding education more generously. Consistent with this fact, students in Democratic states score higher on standardized tests than Republican states. I ask whether these differences are due to differences in state-level policies or confounding due to variables such as attitudes about the importance of education. Using two empirical approaches, I find that state policy does not explain this gap. At most, my estimates imply differences of 0.01 standard deviations of student achieving due to state policy."
     }
   ],
