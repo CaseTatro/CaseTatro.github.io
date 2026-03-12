@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student on the job market.
+I am a fifth-year Ph.D. student and will be joining Hamilton College as a Visiting Assistant Professor for the 2026-2027 Academic Year.
 
  I am an applied microeconomist. I primarily work in the economics of education, but I also work
  on topics in experimental, labor, health, and enviromental economics. My teaching interests include intermediate microeconomics, labor economics, the economics of education, and environmental and natural resource economics. 
