@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Case Tatro"
 title_separator          : ""
 name                     : &name "Case Tatro"
-description              : &description "PhD Economics Candidate at Binghamton University (SUNY)"
+description              : &description "Visiting Assistant Professor of Economics (Hamilton College)"
 url                      : https://www.casetatro.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "casetatro/casetatro.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : IMG-4744.jpg
   name             : "Case Tatro"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Economics Candidate at Binghamton University (SUNY)"
-  location         : "Binghamton, NY"
-  employer         : "Binghamton University (SUNY)"
+  bio              : "Visiting Assistant Professor of Economics (Hamilton College)"
+  location         : "Clinton, NY"
+  employer         : "Hamilton College"
   uri              : # URL
-  email            : "ctatro1@binghamton.edu" 
+  email            : "ctatro@hamilton.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
