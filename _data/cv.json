@@ -67,8 +67,7 @@
     },
      {
       "name": "Is the red-blue achievement gap due to state policy?",
-      "summary": "Abstract: In the US, a popular view is that Democrats exhibit greater support for education, including funding education more generously. Consistent with this fact, students in Democratic states score higher on standardized tests than Republican states. I ask whether these differences are due to differences in state-level policies or confounding due to variables such as attitudes about the importance of education. Using two empirical approaches, I find that state policy does not explain this gap. At most, my estimates imply differences of 0.01 standard deviations of student achieving due to state policy."
-    }
+      "summary": "    In the US, the general consensus is that Democrats exhibit greater support for education, including funding education more generously. Consistent with this fact, students in Democratic states score higher on standardized tests than those in Republican states. I implement two research designs and ask whether a state's partisan orientation (measured through vote shares in presidential elections) causes these differences in test scores through state-level policy. I find no causal impact of state partisanship on test scores. Further, despite the view that Democrats promote equity in education, I do not find that increasing the degree of Democratic lean causally closes achievement gaps between white and black students, male and female students, or rich and poor students. I also do not find heterogeneous effects across demographic sub-groups, grades, or subjects using either of my two research designs." }
   ],
   "instructor": [
     {
