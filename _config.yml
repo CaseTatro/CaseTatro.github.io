@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Case Tatro"
+#title                    : "Case Tatro"
 title_separator          : ""
-name                     : &name "Case Tatro"
-description              : &description "Visiting Assistant Professor of Economics (Hamilton College)"
+#name                     : &name "Case Tatro"
+#description              : &description "Visiting Assistant Professor of Economics (Hamilton College)"
 url                      : https://www.casetatro.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "casetatro/casetatro.github.io"
