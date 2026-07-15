@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Case Tatro -- Visiting Assistant Professor at Hamilton College"
 author_profile: true
 redirect_from: 
   - /about/
