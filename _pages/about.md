@@ -18,6 +18,6 @@ Fields
 * Applied Microeconomics
 * Labor Economics
 * Environmental Economics
-* Experimental Economics
+* Experimental/Behavioral Economics
 
 
