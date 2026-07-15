@@ -1,5 +1,5 @@
 ---
-title: "The Effects of Accountable Advice"
+title: "The Effects of Accountable Advice."
 collection: publications
 category: works
 coauthors: "Ozlem Tonguc"
