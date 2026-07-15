@@ -57,18 +57,18 @@
       "summary":"Conventional value-added (VA) models estimate teacher quality as a simple average of the difference between students' actual and predicted standardized test scores. These models therefore implicitly assume it is just as important to raise test scores of lower-achieving students as it is to raise test scores of higher-achieving students. I consider whether a weighted average of residuals might be more useful. Using data from North Carolina, I find that teacher VA measures become more predictive of teachers' long-run impacts when the highest-achieving students are weighted more than the median student. These differences in weights may reflect that either (i) small-sample efficiency (some students are more informative about teachers' true test-score effects than others) or (ii) differences in true effects (e.g. test-score effects for different students might capture different general aspects of teaching). I find empirical evidence supporting both explanations."
  },   
     {
-      "name": "Is the mortality gap between red and blue states caused by government? (with Jijee Bhattarai & David Slichter)",
+      "name": "Is The Mortality Gap Between Red and Blue States Caused by Government? (with Jijee Bhattarai & David Slichter)",
       "website": "http://casetatro.github.io/files/Red_blue_mortality_gap.pdf",
       "summary": "Abstract: In the US, age-adjusted mortality rates are higher in “red” states, i.e., states with high support for the Republican Party. We ask whether this is due to state-level policies as opposed to confounding variables such as culture. Using a variety of empirical approaches, we find that state policy explains between 0 and 20% of the mortality gap. Scaling this by the size of the (large) gap, red state policies increase mortality risk by 0-3% relative to blue state policies."
     },
    
     
     {
-      "name": "The effects of accountable advice.",
+      "name": "The Effects of Accountable Advice.",
       "summary": "Abstract: The literature on advised decision making finds that a third-party advisor allows a decision maker to deflect blame for an unfair action and largely escape accountability for this unfair action. In the context of the consulting industry, we ask whether direct accountability of the third-party advisor, i.e. a consulting company, may change both the advice of a third-party advisor and ultimately whether or not the decision maker chooses a fair or unfair action. We answer this question by conducting a lab-experiment in which we vary whether the advisor is accountable or not. We find that direct accountability reduces the probability of both unfair advice and unfair action. We speculate that such accountability applied to the consulting industry may reduce the intrinsic value of firms hiring a consultant through this accountability channel but do not expect firms to no longer hire such agencies as a result."
     },
      {
-      "name": "Is the red-blue achievement gap due to state policy?",
+      "name": "Is the Red-Blue Achievement Gap Due to State Policy?",
           "website": "http://casetatro.github.io/files/Red_blue_mortality_gap.pdf",
       "summary": "Abstract: In the US, the general consensus is that Democrats exhibit greater support for education, including funding education more generously. Consistent with this fact, students in Democratic states score higher on standardized tests than those in Republican states. I implement two research designs and ask whether a state's partisan orientation (measured through vote shares in presidential elections) causes these differences in test scores through state-level policy. I find no causal impact of state partisanship on test scores. Further, despite the view that Democrats promote equity in education, I do not find that increasing the degree of Democratic lean causally closes achievement gaps between white and black students, male and female students, or rich and poor students. I also do not find heterogeneous effects across demographic sub-groups, grades, or subjects using either of my two research designs." }
   ],
