@@ -12,6 +12,6 @@ I teach this class as an active, student centered course in which class time foc
 - <a href="/files/econ339/Tatro Econ 339 Syllabus Fall 2026.pdf" target="_blank" rel="noopener">Syllabus</a>
 
 ## Final Project Description and Deadlines
-- <a href="/files/econ339/Tatro Econ 339 Final Project Description and Deadlines.pdf" target="_blank" rel="noopener">Syllabus</a>
+- <a href="/files/econ339/Tatro Econ 339 Final Project Description and Deadlines.pdf" target="_blank" rel="noopener">Final Project Description and Deadlines</a>
 
 
