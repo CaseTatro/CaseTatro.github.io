@@ -7,9 +7,13 @@ author_profile: true
 
 Welcome! Below are links to my course materials for classes  I am currently teaching at Hamilton College.
 The slides and homeworks are open access in case others find them helpful!
+<<<<<<< HEAD
+- [Econ 100: Intro to Economics (Hamilton)](/econ100/)
+- [Econ 339: Behavioral Economics (Hamilton)](/econ339/)
+=======
 <!-- [Econ 100: Intro to Economics (Micro and Macro Combined)](/econ100/)-->
 - [Econ 339: Behavioral Economics](/econ339)
-
+>>>>>>> 8820a1ac8f99f2edc8db5b541519de60707e7be0
 
 Below are links to my course material for classes I have taught in the past.
 - [Econ 360: Intermediate Microeconomics (Binghamton University (SUNY))](/econ360/)
