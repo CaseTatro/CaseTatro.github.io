@@ -15,7 +15,7 @@ I teach this class as an active, student centered course. Class time begins with
 
 
 ## Homeworks (Weekly)
-- <a href="files/econ-100/Homework 0.pdf" target="_blank" rel="noopener">Homework 0</a>
+- <a href="/files/econ-100/Homework 0.pdf" target="_blank" rel="noopener">Homework 0</a>
 - <a href="/files/econ-100/Econ_100_HW_1.pdf" target="_blank" rel="noopener">Homework 1</a>
 
 ## Practice Exams
