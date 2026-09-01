@@ -68,11 +68,21 @@
       "summary": "Abstract: The literature on advised decision making finds that a third-party advisor allows a decision maker to deflect blame for an unfair action and largely escape accountability for this unfair action. In the context of the consulting industry, we ask whether direct accountability of the third-party advisor, i.e. a consulting company, may change both the advice of a third-party advisor and ultimately whether or not the decision maker chooses a fair or unfair action. We answer this question by conducting a lab-experiment in which we vary whether the advisor is accountable or not. We find that direct accountability reduces the probability of both unfair advice and unfair action. We speculate that such accountability applied to the consulting industry may reduce the intrinsic value of firms hiring a consultant through this accountability channel but do not expect firms to no longer hire such agencies as a result."
     },
      {
-      "name": "Is the Red-Blue Achievement Gap Due to State Policy? (Under Review)",
+      "name": "Is the Red-Blue Achievement Gap Due to State Policy?",
           "website": "http://casetatro.github.io/files/Red_blue_mortality_gap.pdf",
       "summary": "Abstract: In the US, the general consensus is that Democrats exhibit greater support for education, including funding education more generously. Consistent with this fact, students in Democratic states score higher on standardized tests than those in Republican states. I implement two research designs and ask whether a state's partisan orientation (measured through vote shares in presidential elections) causes these differences in test scores through state-level policy. I find no causal impact of state partisanship on test scores. Further, despite the view that Democrats promote equity in education, I do not find that increasing the degree of Democratic lean causally closes achievement gaps between white and black students, male and female students, or rich and poor students. I also do not find heterogeneous effects across demographic sub-groups, grades, or subjects using either of my two research designs." }
   ],
   "instructor": [
+      {
+      "course": "Econ 100: Introduction to Economics",
+      "institution": "Hamilton College",
+      "date": "Fall 2026"
+    },
+       {
+      "course": "Econ 339: Behavioral Economics",
+      "institution": "Hamilton College",
+      "date": "Fall 2026"
+    },
     {
       "course": "Econ 331: Environmental Economics",
       "institution": "Binghamton University",
