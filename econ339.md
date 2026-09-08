@@ -14,4 +14,7 @@ I teach this class as an active, student centered course in which class time foc
 ## Final Project Description and Deadlines
 - <a href="/files/econ339/Tatro Econ 339 Final Project Description and Deadlines.pdf" target="_blank" rel="noopener">Final Project Description and Deadlines</a>
 
+## Take-Home Quizzes
+- <a href="/files/econ339/Take Home Quiz 0.pdf" target="_blank" rel="noopener">Take-Home Quiz 0</a>
+- <a href="/files/econ339/Take Home Quiz 1.pdf" target="_blank" rel="noopener">Take-Home Quiz 1: Evaluating AI</a>
 
