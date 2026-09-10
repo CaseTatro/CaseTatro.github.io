@@ -8,7 +8,7 @@ permalink: /publication/Weighted VA Models
 date: 2025-12-01
 venue: 'Job Market Paper'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'http://casetatro.github.io/files/Should_Value_Added_Models_Weight_All_Students_Equally.pdf'
+paperurl: 'http://casetatro.github.io/files/Should_Value_Added_Models_Weight_All_Students_Equally.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 #citation: "
 ---
