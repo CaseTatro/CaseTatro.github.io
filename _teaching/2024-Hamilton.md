@@ -10,7 +10,7 @@ taughtcourses:
       - Spring 2027
   - course: "Econ 560: Honors Senior Thesis Research Seminar"
     semesters:
-      - Spring 2026
+      - Spring 2027
   - course: "Econ 100: Introduction to Economics"
     semesters:
       - Fall 2026
