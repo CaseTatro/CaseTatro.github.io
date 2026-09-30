@@ -26,5 +26,5 @@ I teach this class as an active, student centered course. Class time begins with
 
 
 ## Past Exams
-- <a href="/files/econ-100/Econ 100 Practice Exam 1 Fall 2026.pdf" target="_blank" rel="noopener">Practice Exam 1 (Fall 2026) </a> 
+- <a href="/files/econ-100/Practice_Econ_100_Exam.pdf" target="_blank" rel="noopener">Practice Exam 1 (Fall 2026) </a> 
 - <a href="/files/econ-100/Econ 100 Makeup Exam 1 Fall 2026.pdf" target="_blank" rel="noopener"> Exam 1 (Fall 2026) </a> 
