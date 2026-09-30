@@ -14,7 +14,7 @@ I teach this class as an active, student centered course. Class time begins with
 ## Intructions for Selected Class Activities
 - <a href="/files/econ-100/Mutally Beneficial Trade Activity.pdf" target="_blank" rel="noopener">Mutually Benefical Candy Trade Game</a>
 - <a href="/files/econ-100/Trading in a Pit Market Game Instructions for Students.pdf" target="_blank" rel="noopener">Market Equilibrium Game (Students)</a>
-- <a href="/files/econ-100/Trading in a Pit Market Game Instructions for Instructors.pdf" target="_blank" rel="noopener">Market Equilibrium Game (Instructors)</a>
+- <a href="/files/econ-100/Trading in a Pit Market Game Instructions for Instructor.pdf" target="_blank" rel="noopener">Market Equilibrium Game (Instructors)</a>
 
 ## Homeworks (Weekly)
 - <a href="/files/econ-100/Homework 0.pdf" target="_blank" rel="noopener">Homework 0</a>
