@@ -12,14 +12,19 @@ I teach this class as an active, student centered course. Class time begins with
 - <a href="/files/econ-100/Econ 100 Syllabus Fall 2026.pdf" target="_blank" rel="noopener">Syllabus</a>
 
 ## Intructions for Selected Class Activities
-
+- <a href="/files/econ-100/Mutally Beneficial Trade Activity.pdf" target="_blank" rel="noopener">Mutually Benefical Candy Trade Game</a>
+- <a href="/files/econ-100/Trading in a Pit Market Game Instructions for Students.pdf" target="_blank" rel="noopener">Market Equilibrium Game (Students)</a>
+- <a href="/files/econ-100/Trading in a Pit Market Game Instructions for Instructors.pdf" target="_blank" rel="noopener">Market Equilibrium Game (Instructors)</a>
 
 ## Homeworks (Weekly)
 - <a href="/files/econ-100/Homework 0.pdf" target="_blank" rel="noopener">Homework 0</a>
 - <a href="/files/econ-100/Econ_100_HW_1.pdf" target="_blank" rel="noopener">Homework 1</a>
 - <a href="/files/econ-100/Econ_100_HW_2.pdf" target="_blank" rel="noopener">Homework 2</a> 
-
-## Practice Exams
+- <a href="/files/econ-100/Econ_100_HW_3.pdf" target="_blank" rel="noopener">Homework 3</a> 
+- <a href="/files/econ-100/Econ_100_HW_4.pdf" target="_blank" rel="noopener">Homework 4</a> 
+- <a href="/files/econ-100/Econ_100_HW_5.pdf" target="_blank" rel="noopener">Homework 5</a> 
 
 
 ## Past Exams
+- <a href="/files/econ-100/Econ 100 Practice Exam 1 Fall 2026.pdf" target="_blank" rel="noopener">Practice Exam 1 (Fall 2026) </a> 
+- <a href="/files/econ-100/Econ 100 Makeup Exam 1 Fall 2026.pdf" target="_blank" rel="noopener"> Exam 1 (Fall 2026) </a> 
