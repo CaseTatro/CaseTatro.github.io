@@ -28,7 +28,7 @@ I teach this class as an active, student centered course. Class time begins with
 - <a href="/files/econ-100/Econ_100_HW_4.pdf" target="_blank" rel="noopener">Homework 4</a> 
 - <a href="/files/econ-100/Econ_100_HW_5.pdf" target="_blank" rel="noopener">Homework 5</a> 
 - <a href="/files/econ-100/Econ_100_HW_6.pdf" target="_blank" rel="noopener">Homework 6</a> 
-- <a href="/files/econ-100/Econ 100 hw 7.pdf" target="_blank" rel="noopener">Homework 7</a> 
+- <a href="/files/econ-100/Econ 100 HW 7.pdf" target="_blank" rel="noopener">Homework 7</a> 
 
 
 ## Past Exams
