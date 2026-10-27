@@ -16,6 +16,10 @@ I teach this class as an active, student centered course. Class time begins with
 - <a href="/files/econ-100/Trading in a Pit Market Game Instructions for Students.pdf" target="_blank" rel="noopener">Market Equilibrium Game (Students)</a>
 - <a href="/files/econ-100/Trading in a Pit Market Game Instructions for Instructor.pdf" target="_blank" rel="noopener">Market Equilibrium Game (Instructors)</a>
 
+## Additional Practice Problems Created for Class
+- <a href="/files/econ-100/bread_economy_gdp.pdf" target="_blank" rel="noopener">Extra Problem on GDP</a>
+- <a href="/files/econ-100/millbrook_unemployment.pdf" target="_blank" rel="noopener">Extra Problem on Unemployment</a>
+
 ## Homeworks (Weekly)
 - <a href="/files/econ-100/Homework 0.pdf" target="_blank" rel="noopener">Homework 0</a>
 - <a href="/files/econ-100/Econ_100_HW_1.pdf" target="_blank" rel="noopener">Homework 1</a>
@@ -23,8 +27,13 @@ I teach this class as an active, student centered course. Class time begins with
 - <a href="/files/econ-100/Econ_100_HW_3.pdf" target="_blank" rel="noopener">Homework 3</a> 
 - <a href="/files/econ-100/Econ_100_HW_4.pdf" target="_blank" rel="noopener">Homework 4</a> 
 - <a href="/files/econ-100/Econ_100_HW_5.pdf" target="_blank" rel="noopener">Homework 5</a> 
+- <a href="/files/econ-100/Econ_100_HW_6.pdf" target="_blank" rel="noopener">Homework 6</a> 
+- <a href="/files/econ-100/Econ 100 hw 7.pdf" target="_blank" rel="noopener">Homework 7</a> 
 
 
 ## Past Exams
 - <a href="/files/econ-100/Practice_Econ_100_Exam.pdf" target="_blank" rel="noopener">Practice Exam 1 (Fall 2026) </a> 
 - <a href="/files/econ-100/Econ 100 Makeup Exam 1 Fall 2026.pdf" target="_blank" rel="noopener"> Exam 1 (Fall 2026) </a> 
+
+- <a href="/files/econ-100/Econ 100 Practice Exam 2 Fall 2026.pdf" target="_blank" rel="noopener">Practice Exam 2 (Fall 2026) </a> 
+- <a href="/files/econ-100/Econ 100 Exam 2a Fall 2026.pdf" target="_blank" rel="noopener"> Exam 2a (Fall 2026) </a> 

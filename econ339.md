@@ -14,7 +14,17 @@ I teach this class as an active, student centered course in which class time foc
 ## Final Project Description and Deadlines
 - <a href="/files/econ339/Tatro Econ 339 Final Project Description and Deadlines.pdf" target="_blank" rel="noopener">Final Project Description and Deadlines</a>
 
+## Slides from Workshop on Good Writing in Economics
+- <a href="/files/econ339/Tatro Econ 339 Final Project Description and Deadlines.pdf" target="_blank" rel="noopener">Guide to Good Writing in Economics</a>
+
+## Slides on Papers/Topics
+- <a href="/files/econ339/Fehr_and_Camerer_2007_Slides.pdf" target="_blank" rel="noopener">Fehr and Camerer (2007)</a>
+- <a href="/files/econ339/Behavioral_Econ_Risk_Preferences.pdf" target="_blank" rel="noopener">Risk Preferences</a>
+- <a href="/files/econ339/Econ_339_Johnson_1993.pdf" target="_blank" rel="noopener">Johnson (1993) Paper on Insurance</a>
+
 ## Take-Home Quizzes
 - <a href="/files/econ339/Take Home Quiz 0.pdf" target="_blank" rel="noopener">Take-Home Quiz 0</a>
 - <a href="/files/econ339/Take Home Quiz 1.pdf" target="_blank" rel="noopener">Take-Home Quiz 1: Evaluating AI</a>
+- <a href="/files/econ339/Take Home Quiz 2.pdf" target="_blank" rel="noopener">Take-Home Quiz 2: Intermediate Deadlines and Time Preferences</a>
+- <a href="/files/econ339/Take Home Quiz 3.pdf" target="_blank" rel="noopener">Take-Home Quiz 3: Prospect Theory Numerical Problem</a>
 
